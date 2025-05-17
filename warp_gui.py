@@ -2,7 +2,6 @@
 import logging
 import sys
 import subprocess
-import time
 from PyQt5.QtWidgets import (
     QApplication,
     QMainWindow,
