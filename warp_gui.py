@@ -33,7 +33,7 @@ class CloudflareWarpGUI(QMainWindow):
         self.timer.start(5000)  # Update status every 5 seconds
 
     def initUI(self):
-        self.setWindowTitle("Cloudflare WARP GUI")
+        self.setWindowTitle("Cloudflare WARP")
         self.setGeometry(300, 300, 300, 200)
 
         # Create central widget and layout
